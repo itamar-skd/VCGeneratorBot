@@ -2,7 +2,7 @@
 An automatic Voice Channel Generator for discord.js!
 
 # Screenshots
-https://imgur.com/a/H7khqgM
+https://imgur.com/a/uTdKsht
 
 # Dependencies
 * discord.js (npm i discord.js)
