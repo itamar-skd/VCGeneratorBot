@@ -13,10 +13,10 @@ https://imgur.com/a/H7khqgM
 // It's very recommended to also use MongoDB, as WOKCommands often relies on it.
 
 # Setting up
-Create a folder named 'Commands' and place 'vgc.js' under it
+Create a folder named 'Commands' and place 'vcg.js' under it
 
 Place all of the files in, and start customizing the different sections to your likings:
-* Channels Category (Can be found in vgc.js)
+* Channels Category (Can be found in vcg.js)
 * Prefix and Token (Can be found in config.json)
 * MongoDB Connection (Can be found in index.js)
 
